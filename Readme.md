@@ -1,3 +1,5 @@
+*This is a fork from release 1.10.16 of [DataTables/Dist-DataTables-Bootstrap](https://github.com/DataTables/Dist-DataTables-Bootstrap) with one change to change the dependency on datatables.net to a forked version which allows default direction within multi-column sorting. See this [rejected pull request](https://github.com/DataTables/DataTables/pull/331) for more details.*
+
 # DataTables for jQuery with styling for [Bootstrap](http://getbootstrap.com/)
 
 This package contains distribution files required to style [DataTables library](https://datatables.net) for [jQuery](http://jquery.com/) with styling for [Bootstrap](http://getbootstrap.com/).
